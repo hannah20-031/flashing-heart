@@ -10,7 +10,7 @@ function show_the_heart() {
     basic.clearScreen()
 }
 
-let repeatheart = true
+let repeatheart = false
 show_the_heart()
 while (repeatheart) {
     show_the_heart()
